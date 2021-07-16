@@ -1,0 +1,6 @@
+第一步：
+RCLF_CLF.py不能直接一次运行，需要首先运行n_estimators.py文件内容相对应的代码找到n_estimators超参数的值。
+第二步：
+然后运行RandomizedSearchCV+Random Forest.py文件内容相对应的代码确定其他超参数的值，然后根据这些超参数的值再次设置大概的范围，缩小网格搜索的范围。
+第三步:
+最后运行RandomizedSearchCV+Random Forest.py文件内容相对应的代码确定模型最终超参数的确定值。

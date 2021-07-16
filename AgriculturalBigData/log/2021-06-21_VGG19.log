@@ -1,0 +1,120 @@
+2021-06-21 10:27:47-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:27:47-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:27:47-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:27:47-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:27:47-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:27:47-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:27:47-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:27:47-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:27:47-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:27:47-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:27:47-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:27:47-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:27:47-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:27:47-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:27:47-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:03-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:30:03-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:03-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:03-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:03-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:03-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:03-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:03-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:03-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:03-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:03-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:03-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:03-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:03-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:03-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:12-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:30:12-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:12-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:12-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:12-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:12-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:13-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:13-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:13-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:13-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:13-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:32-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:30:32-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:32-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:32-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:32-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:32-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:32-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:32-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:32-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:32-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:32-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:32-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:32-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:32-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:32-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:54-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:30:54-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:54-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:30:54-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:54-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:54-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:30:54-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:54-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:54-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:54-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:30:54-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:54-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:54-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:54-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:30:54-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:31:12-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:31:12-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:31:12-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:31:12-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:31:12-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:31:12-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:31:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:31:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:31:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:31:12-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:31:12-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:31:12-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:31:12-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:31:12-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:31:12-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:42:23-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:42:23-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:42:23-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:42:23-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:42:23-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:42:23-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:42:23-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:42:23-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:42:23-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:42:23-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:42:23-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:42:23-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:42:23-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:42:23-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:42:23-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:43:02-INFO-Preprocess_data.py-[line:20]-Use Preprocess_data Function!
+2021-06-21 10:43:02-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:43:02-INFO-Split_train_test.py-[line:20]-Use Split_train_test Function !
+2021-06-21 10:43:02-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:43:02-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:43:02-INFO-Label_images.py-[line:20]-Use Label_images Function!
+2021-06-21 10:43:02-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:43:02-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:43:02-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:43:02-INFO-Load_images.py-[line:20]-Use Load_Images Function!
+2021-06-21 10:43:02-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:43:02-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:43:02-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:43:02-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!
+2021-06-21 10:43:02-INFO-Deep_pipline.py-[line:20]-Use Deep_pipline function!

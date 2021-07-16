@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ML/data/complex_zh_en.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ML/data/complex_zh_en_new.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Tomato/log/2021-06-22_VGG19.log" charset="GBK" />
+  </component>
+</project>

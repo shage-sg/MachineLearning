@@ -1,0 +1,46 @@
+If you use the version of tensorflow > 2.X:
+    the keras has been added to the tensorflow
+
+if you still insatll keras,Keep looking
+
+version:
+    tensorflow 2.2.0
+    tensorflow-gpu 2.2.0
+    CUDA : 10.2
+    cuDNN :8004
+    keras 2.3.1
+
+##################
+Machine	Nvidia      CUDA	        Nvidia CuDNN
+GPU	Cuda            v10.2.89	    CuDNN 7.6.5
+GPU2	            Cuda v10.2.89	CuDNN 7.6.5
+##################
+
+tensorflow_gpu-2.2.0	3.5-3.8	MSVC 2019	Bazel 2.0.0	7.6	10.1
+
+this is method to install pytorch because the newest version of the CUDA is 11.0
+pip3 install torch==1.8.1+cu102 torchvision==0.9.1+cu102 torchaudio===0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip install tensorflow==2.2.0
+pip install keras==2.3.1
+
+
+#######################################
+首先导入torch
+import torch
+然后导入tensorflow
+import tensorflow as tf
+
+print(tf.__version__)
+print(tf.test.is_gpu_available())
+print(torch.__path__)
+print(torch.backends.cudnn.version())
+如果出现cusolver64_10.dll不能找到时，因为torch的版本为11.0
+但是tensorflow需要10.0版的cusolver64_10.dll，
+通过torch.__path__的返回结果，找到torch的路径，去到lib目录下
+把cusolver64_11.dll复制重命名为cusolver64_10.dll就可以解决问题了
+
+Could not create cudnn handle: CUDNN_STATUS_INTERNAL_ERROR
+https://blog.csdn.net/qq_44761397/article/details/107816110
+
+Tensorflow: None of the MLIR optimization passes are enabled (registered 1)
+https://stackoverflow.com/questions/63886762/tensorflow-none-of-the-mlir-optimization-passes-are-enabled-registered-1/64376619

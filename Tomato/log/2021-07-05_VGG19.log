@@ -1,0 +1,95 @@
+2021-07-05 08:34:55-INFO-Log_inf.py-[line:20]-Use VGG19_model Function!
+2021-07-05 08:34:55-INFO-Log_inf.py-[line:20]-load_model  Function
+2021-07-05 08:34:55-INFO-Log_inf.py-[line:20]-model_init  Function
+2021-07-05 08:35:07-INFO-Log_inf.py-[line:20]-Load Model Success!
+2021-07-05 08:35:27-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\1b7d11ff-e94c-45cb-9ef2-6430f989e90e___GHLB2 Leaf 120.1.JPG
+2021-07-05 08:35:27-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:35:46-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:35:46-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\2c666dfe-4499-48cf-926c-ecdea7864087___GHLB2 Leaf 8947.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\1e2fe7d3-3d69-4cf6-aef7-e9975940bd40___GHLB2 Leaf 77.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\1a69b38b-c4eb-42c4-9584-bcb14fb8db0c___GHLB2 Leaf 9011.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\4f03bdbd-e492-49a1-b04b-f19d9aaa95fd___Crnl_L.Mold 6837.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\4b6a59ef-a004-4581-a2c4-d8f94893817e___Crnl_L.Mold 6541.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\4da69391-2910-4fa5-9a74-58c7fe0890c2___Crnl_L.Mold 8622.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\6bb7b9f1-7f75-4cf4-a949-cf779a171417___Crnl_L.Mold 6958.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\05bbff69-adad-4e16-8fad-c265be82e25a___Crnl_L.Mold 6929.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\3fdba933-d33b-45e3-877c-aaf869a83df4___Crnl_L.Mold 8952.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\1b7d11ff-e94c-45cb-9ef2-6430f989e90e___GHLB2 Leaf 120.1.JPG
+2021-07-05 08:36:18-INFO-Log_inf.py-[line:20]-file was deleted:../ftp_pictures\00ce4c63-9913-4b16-898c-29f99acf0dc3___RS_Late.B 4982.JPG
+2021-07-05 08:36:30-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\02effbf1-e958-4531-a19b-f8be754d2805___RS_Late.B 5206.JPG
+2021-07-05 08:36:30-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:36:31-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:36:31-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:37:08-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\2d649ade-8085-44b7-ba6c-ec5d70f1d051___RS_Late.B 5604.JPG
+2021-07-05 08:37:08-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:37:09-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:37:09-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:37:31-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\03f008be-5b97-4827-a2e2-88136b3c8714___RS_Late.B 6290.JPG
+2021-07-05 08:37:31-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:37:31-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:37:32-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:38:28-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\1a308834-fdd7-4121-ae03-5736d8d52e26___RS_HL 9689.JPG
+2021-07-05 08:38:28-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:38:28-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:38:28-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:38:49-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\2b5bebdd-3af4-41ca-b206-efc1a141e71d___RS_Erly.B 6363.JPG
+2021-07-05 08:38:49-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:38:49-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:38:49-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:39:06-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\3e9af11d-b43d-4bfd-9cdf-1b0d847d3bf6___RS_Erly.B 7739.JPG
+2021-07-05 08:39:06-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:39:06-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:39:06-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:39:38-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\6e230511-861d-4ae8-8212-374417841b4c___Crnl_L.Mold 8894.JPG
+2021-07-05 08:39:38-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:39:38-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:39:38-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:42:53-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\8e3d29dc-2a32-4471-9318-7ba1c664e1ad___Crnl_L.Mold 8903.JPG
+2021-07-05 08:42:53-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:42:53-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:42:53-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:43:27-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\4da69391-2910-4fa5-9a74-58c7fe0890c2___Crnl_L.Mold 8622.JPG
+2021-07-05 08:43:27-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:43:28-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:43:28-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 08:44:06-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\24b03bfc-3491-490d-9178-61c6c56c4b56___Crnl_L.Mold 9018.JPG
+2021-07-05 08:44:06-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 08:44:06-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 08:44:06-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 09:17:28-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\0a9b3ff4-5343-4814-ac2c-fdb3613d4e4d___Crnl_L.Mold 6559.JPG
+2021-07-05 09:17:28-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 09:17:28-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 09:17:28-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 09:36:40-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\1fa78650-4f81-4c8f-9190-91f1057d1158___Crnl_L.Mold 9083.JPG
+2021-07-05 09:36:40-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 09:36:40-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 09:36:40-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 09:41:55-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\0adab1d4-5696-4cd8-8453-3931b70e856d___Crnl_L.Mold 8689.JPG
+2021-07-05 09:41:55-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 09:41:55-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 09:41:55-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 10:00:32-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\0b3d5bf2-607f-4f95-bdcd-3542b8bd3244___Crnl_L.Mold 6654.JPG
+2021-07-05 10:00:32-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 10:00:33-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 10:00:33-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 10:17:00-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\2aa365ee-c396-47e3-bf04-aad9d18f470f___Crnl_L.Mold 6655.JPG
+2021-07-05 10:17:00-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 10:17:00-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 10:17:00-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 14:42:32-INFO-Log_inf.py-[line:20]-Use VGG19_model Function!
+2021-07-05 14:42:32-INFO-Log_inf.py-[line:20]-load_model  Function
+2021-07-05 14:42:32-INFO-Log_inf.py-[line:20]-model_init  Function
+2021-07-05 14:42:54-INFO-Log_inf.py-[line:20]-Load Model Success!
+2021-07-05 14:44:40-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\3ad1409d-5f43-469d-ab2a-fdffbd064f69___RS_HL 9931.JPG
+2021-07-05 14:44:40-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 14:44:58-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 14:44:58-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 14:45:05-INFO-Log_inf.py-[line:20]-file was created:../ftp_pictures\4d036bc9-ce94-4da8-af1b-564b2846fbf8___GCREC_Bact.Sp 5789.JPG
+2021-07-05 14:45:05-INFO-Log_inf.py-[line:20]-Use Deep_pipline function!
+2021-07-05 14:45:05-INFO-Log_inf.py-[line:20]-Connect MySQL Success!
+2021-07-05 14:45:05-INFO-Log_inf.py-[line:20]-Put Data To MySQL Success!
+2021-07-05 14:47:48-INFO-Log_inf.py-[line:20]-Use VGG19_model Function!
+2021-07-05 14:47:48-INFO-Log_inf.py-[line:20]-load_model  Function
+2021-07-05 14:47:48-INFO-Log_inf.py-[line:20]-model_init  Function
+2021-07-05 14:47:50-INFO-Log_inf.py-[line:20]-Load Model Success!
